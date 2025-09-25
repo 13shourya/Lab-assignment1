@@ -1,5 +1,5 @@
 // Import the file system module
-console.log("✅ Script started");
+console.log(" Script started");
 
 const fs = require('fs');
 
